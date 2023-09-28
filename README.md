@@ -1,2 +1,2 @@
-# Password Generator Starter Code
-This is an attempt by Sean Connor to create a functioning password generator. 
+# Password-Genr8r
+Random Password Generator by Sean Connor
